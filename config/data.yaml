@@ -1,0 +1,24 @@
+hero:
+  name:安琪拉
+  word:火焰是我最喜欢的玩具
+  Hp:450
+
+heros_name:
+  - 后裔
+  - 黄忠
+  - 小乔
+
+heros:
+  - name:黄忠
+    word:我的圣剑
+    Hp:440
+
+heros_name_list:
+  - - 后裔
+    - 黄忠
+    - 小乔
+
+mobile_params:
+  #start
+  - 0
+  - 25
