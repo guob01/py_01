@@ -1,5 +1,5 @@
 import pytest
-from utils.read_data import get_data
+from utils.read_data import read_yaml
 
 
 # # 单参数，单次循环
